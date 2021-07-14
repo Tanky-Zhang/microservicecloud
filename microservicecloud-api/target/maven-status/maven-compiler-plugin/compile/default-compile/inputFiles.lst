@@ -1,0 +1,6 @@
+D:\Data\springcloud_project\microservicecloud\microservicecloud-api\src\main\java\com\tanky\thrift\DataException.java
+D:\Data\springcloud_project\microservicecloud\microservicecloud-api\src\main\java\com\tanky\entries\Dept.java
+D:\Data\springcloud_project\microservicecloud\microservicecloud-api\src\main\java\com\tanky\thrift\DeptThriftService.java
+D:\Data\springcloud_project\microservicecloud\microservicecloud-api\src\main\java\com\tanky\service\DeptClientService.java
+D:\Data\springcloud_project\microservicecloud\microservicecloud-api\src\main\java\com\tanky\entries\DeptClientServiceFallbackFactory.java
+D:\Data\springcloud_project\microservicecloud\microservicecloud-api\src\main\java\com\tanky\thrift\Dept.java
